@@ -1,0 +1,11 @@
+C:\Users\Ms Linh\source\repos\giuaki1\giuaki1\bin\Debug\giuaki1.exe.config
+C:\Users\Ms Linh\source\repos\giuaki1\giuaki1\bin\Debug\giuaki1.exe
+C:\Users\Ms Linh\source\repos\giuaki1\giuaki1\bin\Debug\giuaki1.pdb
+C:\Users\Ms Linh\source\repos\giuaki1\giuaki1\obj\Debug\giuaki1.csproj.AssemblyReference.cache
+C:\Users\Ms Linh\source\repos\giuaki1\giuaki1\obj\Debug\giuaki1.Form1.resources
+C:\Users\Ms Linh\source\repos\giuaki1\giuaki1\obj\Debug\giuaki1.Properties.Resources.resources
+C:\Users\Ms Linh\source\repos\giuaki1\giuaki1\obj\Debug\giuaki1.csproj.GenerateResource.cache
+C:\Users\Ms Linh\source\repos\giuaki1\giuaki1\obj\Debug\giuaki1.csproj.CoreCompileInputs.cache
+C:\Users\Ms Linh\source\repos\giuaki1\giuaki1\obj\Debug\giuaki1.exe
+C:\Users\Ms Linh\source\repos\giuaki1\giuaki1\obj\Debug\giuaki1.pdb
+C:\Users\Ms Linh\source\repos\giuaki1\giuaki1\obj\Debug\giuaki1.Form2.resources
