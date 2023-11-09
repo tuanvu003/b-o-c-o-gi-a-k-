@@ -10,24 +10,19 @@ using System.Windows.Forms;
 
 namespace giuaki1
 {
-    public partial class Form2 : Form
+    public partial class Form8 : Form
     {
-        public Form2()
+        public Form8()
         {
             InitializeComponent();
         }
 
-        private void Form2_Load(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void checkBox1_CheckedChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
+        private void button2_Click(object sender, EventArgs e)
         {
 
         }

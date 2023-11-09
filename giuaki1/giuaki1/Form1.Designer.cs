@@ -41,9 +41,9 @@
             // xe4chomini
             // 
             this.xe4chomini.Image = ((System.Drawing.Image)(resources.GetObject("xe4chomini.Image")));
-            this.xe4chomini.Location = new System.Drawing.Point(120, 81);
+            this.xe4chomini.Location = new System.Drawing.Point(118, 66);
             this.xe4chomini.Name = "xe4chomini";
-            this.xe4chomini.Size = new System.Drawing.Size(123, 86);
+            this.xe4chomini.Size = new System.Drawing.Size(125, 101);
             this.xe4chomini.TabIndex = 0;
             this.xe4chomini.UseVisualStyleBackColor = true;
             this.xe4chomini.Click += new System.EventHandler(this.xe4chomini_Click);
@@ -51,18 +51,18 @@
             // button1
             // 
             this.button1.Image = ((System.Drawing.Image)(resources.GetObject("button1.Image")));
-            this.button1.Location = new System.Drawing.Point(484, 81);
+            this.button1.Location = new System.Drawing.Point(482, 66);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(123, 86);
+            this.button1.Size = new System.Drawing.Size(125, 101);
             this.button1.TabIndex = 1;
             this.button1.UseVisualStyleBackColor = true;
             // 
             // button2
             // 
             this.button2.Image = ((System.Drawing.Image)(resources.GetObject("button2.Image")));
-            this.button2.Location = new System.Drawing.Point(302, 81);
+            this.button2.Location = new System.Drawing.Point(300, 66);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(123, 86);
+            this.button2.Size = new System.Drawing.Size(125, 101);
             this.button2.TabIndex = 2;
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
@@ -70,36 +70,36 @@
             // button3
             // 
             this.button3.Image = ((System.Drawing.Image)(resources.GetObject("button3.Image")));
-            this.button3.Location = new System.Drawing.Point(197, 236);
+            this.button3.Location = new System.Drawing.Point(195, 221);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(123, 86);
+            this.button3.Size = new System.Drawing.Size(125, 101);
             this.button3.TabIndex = 3;
             this.button3.UseVisualStyleBackColor = true;
             // 
             // button4
             // 
             this.button4.Image = ((System.Drawing.Image)(resources.GetObject("button4.Image")));
-            this.button4.Location = new System.Drawing.Point(371, 236);
+            this.button4.Location = new System.Drawing.Point(369, 221);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(123, 86);
+            this.button4.Size = new System.Drawing.Size(125, 101);
             this.button4.TabIndex = 4;
             this.button4.UseVisualStyleBackColor = true;
             // 
             // button5
             // 
             this.button5.Image = ((System.Drawing.Image)(resources.GetObject("button5.Image")));
-            this.button5.Location = new System.Drawing.Point(563, 236);
+            this.button5.Location = new System.Drawing.Point(561, 221);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(123, 86);
+            this.button5.Size = new System.Drawing.Size(125, 101);
             this.button5.TabIndex = 5;
             this.button5.UseVisualStyleBackColor = true;
             // 
             // button6
             // 
             this.button6.Image = ((System.Drawing.Image)(resources.GetObject("button6.Image")));
-            this.button6.Location = new System.Drawing.Point(666, 81);
+            this.button6.Location = new System.Drawing.Point(661, 66);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(123, 86);
+            this.button6.Size = new System.Drawing.Size(128, 101);
             this.button6.TabIndex = 6;
             this.button6.UseVisualStyleBackColor = true;
             // 
